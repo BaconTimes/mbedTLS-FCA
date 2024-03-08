@@ -22,4 +22,6 @@ Pod::Spec.new do |s|
   s.header_dir = 'mbedtls'
   s.pod_target_xcconfig = { 'HEADER_SEARCH_PATHS' => '"${PODS_TARGET_SRCROOT}/include"', 'CLANG_WARN_DOCUMENTATION_COMMENTS' => 'NO'}
   s.requires_arc = false
+  s.platform = :ios
+  s.ios.deployment_target = '10.0'
 end
