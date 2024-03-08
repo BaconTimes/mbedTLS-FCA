@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'mbedTLS-FCA'
-  s.version          = '3.5.2'
+  s.version          = '3.5.4'
   s.summary          = 'mbed TLS is a lightweight, portable cryptography library written in C.'
 
   s.homepage         = 'https://github.com/BaconTimes/mbedTLS-FCA.git'
