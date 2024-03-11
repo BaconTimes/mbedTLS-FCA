@@ -1,6 +1,8 @@
 README for Mbed TLS
 ===================
 
+## This repo just is copied from [Mbed TLS](https://github.com/Mbed-TLS/mbedtls.git) and then made to a cocoapods library, so that you can use mbedtls in Podfile easily.
+
 Configuration
 -------------
 
